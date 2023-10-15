@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1653929438 source:e:\c++ projects\phase 2 modelling\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<string>
+
